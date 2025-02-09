@@ -1,0 +1,142 @@
+.border{
+    position: absolute;
+    width: 719px;
+    height: 536px;
+    top: 170px;
+    left: 640px;
+    gap: 0px;
+    /* border: 0px 7px 7px 0px ; */
+    opacity: 0px;
+    /* border-width: 0px, 7px, 7px, 0px ;  */
+    border-right: 7px solid;
+    border-bottom: 7px solid;
+
+/* border-style: solid; */
+
+border-color: #FFFFFF;
+background: #001E2EBA;
+
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+/* input [type="text"]{ */
+    /* margin-right: 30px; */
+/* } */
+
+.Formgroup{
+    display: flex;
+    margin-bottom: 15px;
+
+}
+
+
+.Formgroup input{
+    position: absolute;
+    left: 150px;
+    width: 372px;
+/* height: 49px; */
+/* top: 205px; */
+/* left: 896px; */
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+
+}
+.Formgroup label{
+
+gap: 0px;
+opacity: 0px;
+font-family: Roboto Serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.42px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+margin-left: 23px;
+padding-top: 48px;
+
+}
+.Formgroup img{
+    margin-left: 60px;
+    margin-top: 48px;
+    width: 20px;
+    height: 20px;
+}
+.Formgroup input{
+
+    width: 372px;
+height: 49px;
+margin-left: 85px;
+ margin-top: 35px; 
+
+}
+.border span{
+    width: 132px;
+height: 23px;
+/* top: 655px; */
+/* left: 938px; */
+gap: 0px;
+opacity: 0px;
+font-family: Roboto Serif;
+font-size: 20px;
+font-weight: 800;
+line-height: 23.42px;
+text-align: left;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+
+img{
+    width: 16px;
+height: 16px;
+
+
+}
+.get{
+    position: absolute;
+    width: 132px;
+height: 23px;
+bottom: 28px;
+left: 298px;
+
+}
+.get span{
+  
+gap: 0px;
+opacity: 0px;
+font-family: Roboto Serif;
+font-size: 20px;
+font-weight: 800;
+line-height: 23.42px;
+text-align: left;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:#FFFFFF;
+;
+}
+
+.eclipseimg {
+    position: absolute;
+    left: 66px;
+    top: 308px;
+    width: 7px;
+    height: 15px;
+}   
+
+
+.eclipseimg img{
+    width: 7px;
+    height: 15px;
+}   
