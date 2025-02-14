@@ -5,7 +5,9 @@ function Frame() {
   return (
     <>
       <div className='borderss'>
-        <input type='text' placeholder='search' ></input>
+        <div className='abc'>
+        <img src='./images/search.png'></img></div>
+        <input type='text' placeholder='Search' ></input>
         <div className='align'>
          <a href=''>MyCart</a>
          <a href=''>Buy Theme</a>
